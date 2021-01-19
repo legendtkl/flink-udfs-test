@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test</groupId>
-    <artifactId>flink-udf1</artifactId>
+    <artifactId>flink-udf2</artifactId>
     <version>0.1-SNAPSHOT</version>
 
     <properties>

@@ -11,8 +11,8 @@
     <modules>
         <module>dependency-version1</module>
         <module>dependency-version2</module>
-        <module>flink-udf1</module>
-        <module>flink-udf2</module>
+<!--        <module>flink-udf1</module>-->
+<!--        <module>flink-udf2</module>-->
     </modules>
 
     <properties>
@@ -71,11 +71,11 @@
 <!--&lt;!&ndash;            <scope>system</scope>&ndash;&gt;-->
 <!--&lt;!&ndash;            <systemPath>/Users/kltao/project/local-jars/local-jar-version1.jar</systemPath>&ndash;&gt;-->
 <!--        </dependency>-->
-        <dependency>
-            <groupId>com.alibaba.vvp</groupId>
-            <artifactId>baseutil</artifactId>
-            <version>1.0</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.vvp</groupId>-->
+<!--            <artifactId>baseutil</artifactId>-->
+<!--            <version>1.0</version>-->
+<!--        </dependency>-->
 
     </dependencies>
 
@@ -98,7 +98,7 @@
                                 <includes>
 <!--                                    <include>com.fasterxml.jackson.core:jackson-core</include>-->
 <!--                                    <include>com.fasterxml.jackson.core:jackson-databind</include>-->
-                                    <include>com.alibaba.vvp:df</include>
+<!--                                    <include>com.alibaba.vvp:df</include>-->
                                 </includes>
                             </artifactSet>
                         </configuration>
